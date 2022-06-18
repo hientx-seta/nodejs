@@ -5,6 +5,8 @@ IntelliJ
 
 https://github.com/sindresorhus/awesome-nodejs#tutorials
 
+https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps
+
 ## Best practices
 https://github.com/goldbergyoni/nodebestpractices
 
@@ -17,4 +19,6 @@ https://github.com/PacktPublishing/Node.js-By-Example
 ## Projects
 
 https://github.com/sqreen/awesome-nodejs-projects
+
+https://github.com/socketio/socket.io
 
