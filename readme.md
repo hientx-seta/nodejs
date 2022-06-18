@@ -27,3 +27,4 @@ https://github.com/socketio/socket.io
 
 ## TypeScript vs JavaScript
 https://www.youtube.com/watch?v=JUORwadOU7s
+https://www.youtube.com/watch?v=D6or2gdrHRE
