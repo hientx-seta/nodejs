@@ -10,7 +10,10 @@ https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps
 ## Best practices
 https://github.com/goldbergyoni/nodebestpractices
 
-## Sources
+## Sources, samples
+
+### Chat Room 
+https://github.com/socketio/socket.io/tree/main/examples/chat
 
 ### Node.js Essentials
 
