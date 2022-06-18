@@ -25,3 +25,5 @@ https://github.com/sqreen/awesome-nodejs-projects
 
 https://github.com/socketio/socket.io
 
+## TypeScript vs JavaScript
+https://www.youtube.com/watch?v=JUORwadOU7s
