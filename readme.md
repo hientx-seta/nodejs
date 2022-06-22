@@ -33,3 +33,5 @@ https://www.youtube.com/watch?v=D6or2gdrHRE
 ## NestJS
 https://www.youtube.com/watch?v=GHTA143_b-s
 
+## Compare NextJs vs NestJs
+https://codedamn.com/news/web-development/next-js-vs-nest-js
