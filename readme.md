@@ -32,6 +32,10 @@ https://www.youtube.com/watch?v=D6or2gdrHRE
 
 ## NestJS
 https://www.youtube.com/watch?v=GHTA143_b-s
+Git of video: https://github.com/vladwulf/nestjs-api-tutorial
+yarn // install
+yarn db:dev:restart // start postgres in docker and push migrations
+yarn start:dev // start api in dev mode
 
 ## Compare NextJs vs NestJs
 https://codedamn.com/news/web-development/next-js-vs-nest-js
